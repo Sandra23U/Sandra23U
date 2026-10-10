@@ -53,6 +53,9 @@ Back- end Estagiária
 <img src="https://img.shields.io/badge/Gmail-D14815?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/sandra-de-oliveira-souza-312258b0/">
+
+
+	
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
@@ -61,31 +64,55 @@ Back- end Estagiária
 
 ```Developer
 
-
-
-##  👩‍🎓  ️SandraOSouza  🧑‍💻
-
 const SandraOSouza = {
     code: [
-        "Javascript",
-        "Typescript",
+        "JavaScript",
+        "TypeScript",
         "Python"
     ],
+
     technologies: {
-        frontEnd:  [
-            "CSS_Tricks",
-	    "Flutter",
-	    "React",
-	    "React Native",
+        frontEnd: [
+            "HTML5",
+            "CSS3",
+            "CSS Tricks",
+            "React",
+            "React Native",
+            "Flutter",
             "Bootstrap"
         ],
+
         backEnd: [
             "Node.js",
             "Django",
-	    "CRUD JSON",
-	    "APIs"
+            "CRUD",
+            "JSON",
+            "REST APIs"
         ],
-        databases: [ "MySQL", "SQLite", "JSON", "PostgreSQL", "MongoDB" ],
-        misc: ["Git", "Frameworks", "Cloud", "Mobile", "Servers", "DBs", "PWAs", "UX", "UI" ]
-    },
+
+        databases: [
+            "MySQL",
+            "SQLite",
+            "PostgreSQL",
+            "MongoDB",
+            "JSON"
+        ],
+
+        tools: [
+            "Git",
+            "GitHub"
+        ],
+
+        concepts: [
+            "Frameworks",
+            "Cloud Computing",
+            "Mobile Development",
+            "Servers",
+            "Progressive Web Apps (PWAs)",
+            "UI Design",
+            "UX Design"
+        ]
+    }
 };
+
+export default SandraOSouza;
