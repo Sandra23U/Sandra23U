@@ -5,7 +5,7 @@
 Olá! Eu sou a Sandra Souza 👩‍💻</h1>
 <strong>🚀 Transformando curiosidade em conhecimento e conhecimento em soluções tecnológicas.</strong>
 <p align="center">
-    <img width="1672" height="941"
+    <img width="470" height="941"
 		src="https://i.pinimg.com/originals/30/b8/17/30b8174c6f1a07e0af9bcf41fec3a5f5.gif">
 </p>
 
